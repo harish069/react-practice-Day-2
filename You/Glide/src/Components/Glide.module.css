@@ -1,0 +1,37 @@
+.Glide {
+  height: 530px;
+  width: 800px;
+  background-color: rgb(23, 36, 41);
+  margin: auto;
+  color: white;
+}
+
+.allowance {
+  height: 70px;
+}
+
+.images {
+  display: grid;
+  grid-template-columns: repeat(4, 20%);
+  grid-gap: 3%;
+  justify-content: center;
+  height: 150px;
+  width: 800px;
+  /* border: 2px solid black; */
+}
+
+.image {
+  height: 80px;
+  width: 80px;
+}
+
+.box {
+  height: 100px;
+  width: 110px;
+  /* border: 2px solid yellow; */
+}
+
+.know {
+  margin-top: 30px;
+  text-decoration: underline;
+}

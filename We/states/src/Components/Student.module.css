@@ -1,0 +1,15 @@
+.card {
+  border: 2px solid black;
+}
+
+.heading {
+  color: green;
+}
+
+.selected {
+  background-color: cadetblue;
+}
+
+.unselected {
+  background-color: red;
+}

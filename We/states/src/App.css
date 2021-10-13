@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(2, 40%);
+  grid-gap: 5%;
+  justify-content: center;
+}
+
+.main {
+  color: blue;
+  text-align: center;
+}
+
+.matter {
+  text-align: center;
+}
